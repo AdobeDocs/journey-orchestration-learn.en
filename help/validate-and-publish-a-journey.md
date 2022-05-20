@@ -1,6 +1,6 @@
 ---
 title:  Validate and publish a Journey
-description: "Learn how to test your journey before its publication, using test profiles. "
+description: Learn how to test your journey before its publication, using test profiles.
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778

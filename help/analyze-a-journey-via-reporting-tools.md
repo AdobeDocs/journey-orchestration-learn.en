@@ -1,6 +1,6 @@
 ---
 title: Analyze a journey via reporting tools
-description: "Learn how to navigate to reporting for your journey, how to customize date ranges for your report and how to save a reporting template for future use."
+description: Learn how to navigate to reporting for your journey, how to customize date ranges for your report and how to save a reporting template for future use.
 feature: Reports
 topics: Introduction
 kt: 2777

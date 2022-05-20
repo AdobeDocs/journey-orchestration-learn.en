@@ -1,6 +1,6 @@
 ---
 title: Configure Data Sources for Adobe Journey Orchestration
-description: "Learn how to configure Experience Platform Data Source, configure an external data source, and find and use data in a journey."
+description: Learn how to configure Experience Platform Data Source, configure an external data source, and find and use data in a journey.
 feature: Data Sources
 topics: Data Sources
 kt: 2774
