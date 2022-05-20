@@ -24,8 +24,4 @@ This video gives you a brief introduction on where to configure segments and how
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
-## Additional resources
-
-Documentation:
-
-* [Segment qualification events](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
+For more information, see [Segment qualification events](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).

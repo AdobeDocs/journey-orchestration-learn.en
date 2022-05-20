@@ -21,7 +21,7 @@ level: Beginner
 + [Configure data sources](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configure actions](/help/configuring-journey-orchestration/configure-actions.md)
 + Build a journey {#building-a-journey}
-  + [Creating a journey](/help/building-a-journey/creating-a-journey.md)
+  + [Create a journey](/help/building-a-journey/creating-a-journey.md)
   + [Jumping to another journey](/help/building-a-journey/jumping-to-another-journey.md)
   + [Update profile action](/help/building-a-journey/update-profile-action.md)
 + [Validate and publish a journey](/help/validate-and-publish-a-journey.md)

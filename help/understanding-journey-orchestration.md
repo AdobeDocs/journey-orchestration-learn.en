@@ -33,7 +33,7 @@ The main steps in preparation for building journeys are:
 
 1. [Configure Streaming Events](/help/configuring-journey-orchestration/configure-streaming-events.md) - This configuration is mandatory, as [!UICONTROL Journey Orchestration] is designed to listen to events.
 1. [Configure Data Sources](/help/configuring-journey-orchestration/configure-data-sources.md) - This configuration is not required if your journeys only use local data coming from an event payload.
-1. [Configure Custom Actions](/help/configuring-journey-orchestration/configure-actions.md): Required if you want to use a service from any 3rd party provider that can be called through a [!DNL REST API] with a JSON formatted payload
+1. [Configure Custom Actions](/help/configuring-journey-orchestration/configure-actions.md): Required if you want to use a service from any third-party provider that can be called through a [!DNL REST API] with a JSON formatted payload
 
 >[!NOTE]
 >
@@ -50,5 +50,5 @@ The main steps in preparation for building journeys are:
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en)
 * [Adobe Experience Platform Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
 * [How to find help with Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=en)
+* [Adobe Experience Platform Mobile SDK - Launch](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
