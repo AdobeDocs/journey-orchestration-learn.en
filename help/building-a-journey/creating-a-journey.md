@@ -17,3 +17,4 @@ exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 Learn how to create a journey, start with an event, use orchestrations controls to control the flow and timing of a journey, and use Actions to engage at points in the journey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
+ 
