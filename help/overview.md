@@ -5,16 +5,28 @@ products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 ---
-# Journey Orchestration Tutorials - Overview
+# Journey Orchestration tutorials
 
 [!UICONTROL Journey Orchestration] is an application service integrated with the Adobe Experience Platform. It allows you to build real-time orchestration use cases using contextual data stored in events or data sources.
 
+<div id="whats-new-section">
+    
 ## What's new
 
 * **[Update profile action](/help/building-a-journey/update-profile-action.md)**
 * **[Jumping to another journey](/help/building-a-journey/jumping-to-another-journey.md)**
-    <br>
     *Learn how to push individuals from one journey to another.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Staff picks
 
@@ -61,6 +73,8 @@ exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Additional resources
 
