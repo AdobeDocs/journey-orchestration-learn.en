@@ -15,4 +15,4 @@ exl-id: 80fb9247-1e11-4eae-ab1e-b76f004714ed
 
 Understand  where you can quickly find answers to your questions around [!UICONTROL Journey Orchestration], how to contact support, and where to log support tickets, and how you can give us feedback.
 
->[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12&learn=on)
