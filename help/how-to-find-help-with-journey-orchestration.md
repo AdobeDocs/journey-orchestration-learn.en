@@ -3,7 +3,7 @@ title: How to find help with Journey Orchestration
 description: Understand  where you can quickly find answers to your questions around [!UICONTROL Journey Orchestration], how to contact support, and where to log support tickets, and how you can give us feedback.
 feature: Overview
 topics: Help and Support
-kt: 4019
+jira: KT-4019
 thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video

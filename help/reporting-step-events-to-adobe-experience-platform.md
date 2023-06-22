@@ -3,7 +3,7 @@ title: Reporting journey step events to Adobe Experience Platform
 description: Understand what journey step events and data steps are and how to explore them.
 feature: Journeys
 topics: Introduction
-kt: 5488
+jira: KT-5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video

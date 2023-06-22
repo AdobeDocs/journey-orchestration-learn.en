@@ -2,7 +2,7 @@
 title: Update profile action
 description: Learn how to update an existing Adobe Experience Platform profile with information coming from an event, a datasource, or using a specific value.
 feature: Actions
-kt: 7313
+jira: KT-7313
 thumbnail: 332112.jpg
 role: User
 activity: use

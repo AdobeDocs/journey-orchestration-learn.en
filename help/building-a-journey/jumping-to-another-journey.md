@@ -3,7 +3,7 @@ title: Jumping to another journey
 description: Learn how to use the jump activity to move customers from one journey to another.
 feature: Journeys
 topics: activity
-kt: 6695
+jira: KT-6695
 thumbnail: 330560.jpg
 audience: user
 doc-type: video

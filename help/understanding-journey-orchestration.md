@@ -3,7 +3,7 @@ title: Understanding Journey Orchestration
 description: Understand the concept of Journey Orchestration, the types of use cases it enables and the key elements of how Journey Orchestration works.
 feature: Overview
 topics: Introduction
-kt: 2773
+jira: KT-2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
