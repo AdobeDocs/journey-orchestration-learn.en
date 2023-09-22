@@ -22,6 +22,6 @@ Example use cases could be:
 
 This video gives you a brief introduction on where to configure segments and how to configure a Segment Qualification event in a journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?learn=on){transcript=true}
 
 For more information, see [Segment qualification events](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).

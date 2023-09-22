@@ -13,7 +13,7 @@ exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
 
 Learn how to update an existing Adobe Experience Platform profile with information coming from an event, a datasource, or using a specific value.
 
->[!VIDEO](https://video.tv.adobe.com/v/332112?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332112?learn=on){transcript=true}
 
 ## Additional resources
 

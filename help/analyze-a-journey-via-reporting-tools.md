@@ -15,6 +15,6 @@ exl-id: f6f13fba-d815-424f-86e5-918577609882
 
 Learn how to navigate to reporting for your journey, how to customize date ranges for your report and how to save a reporting template for future use.
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?learn=on){transcript=true}
 
 For more information, see [About Journey Orchestration reports](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=en).

@@ -41,6 +41,6 @@ The following video explains how to:
 * Define an event in [!UICONTROL Journey Orchestration]
 * Configure source systems to stream events
 
->[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29338?learn=on){transcript=true}
 
 For more information, see the [About events](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) section of the product documentation.

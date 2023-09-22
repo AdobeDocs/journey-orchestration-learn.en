@@ -25,7 +25,7 @@ The video below introduces
 * The types of use cases it enables
 * The key elements of how [!UICONTROL Journey Orchestration] works
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?learn=on){transcript=true}
 
 ## How to configure a journey
 
